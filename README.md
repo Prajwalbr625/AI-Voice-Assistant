@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai-voice-assistant.git
+   git clone https://github.com/Prajwalbr625/AI-Voice-Assistant.git
    cd ai-voice-assistant
    ```
 
