@@ -52,11 +52,3 @@ To execute the assistant, run all cells in the notebook and interact with the as
 
 - **`AI Voice Assistant.ipynb`:** The main notebook containing all code and explanations.
 - **`requirements.txt`:** A file listing all the dependencies required to run the project.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or additions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
