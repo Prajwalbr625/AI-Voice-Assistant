@@ -1,6 +1,6 @@
 # AI Voice Assistant
 
-This repository contains an AI Voice Assistant project developed using Python. The project demonstrates the implementation of an AI-driven voice assistant capable of responding to various voice commands and performing tasks such as web searches, playing music, or providing weather updates.
+This repository contains a pipeline that takes a voice query command, converts it into text, uses a Large Language Model (LLM) to generate a response, and then converts the output text back into speech. The system should have low latency, Voice Activity Detection (VAD), restrict the output to 2 sentences, and allow for tunable parameters such as pitch, male/female voice, and speed.
 
 ## Table of Contents
 
