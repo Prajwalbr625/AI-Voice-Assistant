@@ -7,8 +7,6 @@ This repository contains an AI Voice Assistant project developed using Python. T
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
